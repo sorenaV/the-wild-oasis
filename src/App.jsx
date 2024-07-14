@@ -17,7 +17,7 @@ import AppLayout from "./ui/AppLayout";
 import Booking from "./pages/Booking";
 import Checkin from "./pages/Checkin";
 import ProtectedRoute from "./ui/ProtectedRoute";
-import Banner from "./ui/banner";
+import Banner from "./ui/Banner";
 
 const queryClient = new QueryClient({
   defaultOptions: {
